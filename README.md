@@ -1,7 +1,7 @@
 ### Eae! Eu sou o Gabriel Froes 👋
 ##
 
-
+<img width="100px" align="right" src="https://user-images.githubusercontent.com/79543726/146813060-c47f2055-33a8-4573-a532-9d033988784a.gif">
 
 - 🔭 Ainda não trabalho formalmente, mas estou em busca
 - 🌱 Atualmente estou estudando Python, principalmente na área de testes automatizados
